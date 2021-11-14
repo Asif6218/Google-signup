@@ -32,7 +32,7 @@ function App() {
   
   return (
     <div className="App">       
-     <img src="https://i.ibb.co/v3h1yvh/logo.png" className="logo1"/>
+     <img src="https://i.ibb.co/v3h1yvh/logo.png" alt="logo" className="logo1"/>
      <div className="login">
       <input type="text" placeholder="Email" onChange={changemail} value={mail}/>
       <input type="password" placeholder="Password" onChange={changepsw} value={psw}/>
