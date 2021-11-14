@@ -58,6 +58,9 @@ button:hover{
   border-radius: 0.3vw;
   margin: 0.5vw auto;
 }
+a{
+  text-decoration: none;
+}
 
 @media screen and (max-width:768px){
   .logo1{
